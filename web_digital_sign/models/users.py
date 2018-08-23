@@ -8,4 +8,4 @@ class Users(models.Model):
     _name = 'res.users'
     _inherit = 'res.users'
 
-    signature = fields.Binary(string='Signature')
+#    signature = fields.Binary(string='Signature')
